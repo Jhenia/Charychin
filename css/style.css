@@ -492,7 +492,7 @@ header:before {
 }
 
 .form1__select {
-  background: transparent !important;
+  
   cursor: pointer;
   width: 100%;
   display: -webkit-box;
@@ -2116,6 +2116,8 @@ a {
   }
 
   .form1 select {
+    border-radius: 0 !important;
+  background: transparent !important;
     padding: 7px 16px;
   }
 
