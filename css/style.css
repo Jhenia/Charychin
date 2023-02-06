@@ -2117,7 +2117,7 @@ a {
 
   .form1 select {
     border-radius: 0 !important;
-  background: transparent !important;
+    background-color: transparent !important;
     padding: 7px 16px;
   }
 
